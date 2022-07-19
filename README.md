@@ -1,1 +1,3 @@
 # YouTube-Analytics
+
+YouTube has been evergreen website with millions of Data updating each and every day. This project is just a piece of work, which I challenged myself to learn something new by using YouTube Data API which can be accessed with the help of API Key(created it on Google Cloud). For Scrapping the data, there is a website 'https://developers.google.com/youtube/v3' (YouTube Data API) developed by Google Developers and documented with YouTube Data related Information like Channelid, Videoid, Views,likes count, dislikes count. However you are not allowed to access information like dislike count which they have removed recently. In this work, I have taken most popular cooking youtube channels and analysed based on the views count, subscriber count and so on. 
